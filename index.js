@@ -1,4 +1,8 @@
 function theBeatlesPlay(musicians, instruments) {
-  var array = []
-  for ()
+  var theBeatles = []
+  if (musicians.length == instruments.length) {
+   for (var c = 0; c < musicians.length; c++) {
+     
+   } 
+  }
 }
