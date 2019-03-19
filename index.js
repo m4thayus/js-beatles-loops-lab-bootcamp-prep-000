@@ -15,13 +15,13 @@ function johnLennonFacts(facts) {
     facts[c] = facts[c] + '!!!';
     c++;
   }
-  return facts
+  return facts;
 }
 
 function iLoveTheBeatles(n) {
   var tmi = [];
   do {
-    tmi.push()
+    tmi.push("I love the Beatles!");
   } while (n < 15);
   return tmi;
 }
